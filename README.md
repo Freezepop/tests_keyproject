@@ -15,7 +15,7 @@
 
 Java 17  
 Selenium WebDriver  
-Appium 2  
+Appium 3  
 TestNG  
 WebDriverManager  
 ChromeDriver  
